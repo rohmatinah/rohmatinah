@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+this is my portofolio site deployed on internet computer (soon)
+
 <!--
 **rohmatinah/rohmatinah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
